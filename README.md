@@ -1,1 +1,1 @@
-slowly building the coolest portfolio page:)
+slowly building the coolest portfolio page!:)
