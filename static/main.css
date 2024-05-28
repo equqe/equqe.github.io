@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'WixMadeforDisplay-Regular';
+}
+
+
+
+
+/*********/
+/* FONTS */
+/*********/
+@font-face {
+    font-family: "WixMadeforDisplay-Regular"; 
+    src: url("../fonts/WixMadeforDisplay-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+  
+  
